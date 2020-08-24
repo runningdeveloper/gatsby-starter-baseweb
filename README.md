@@ -9,11 +9,15 @@
 
 A minimal Gatsby starter based on Base Web from Uber.
 
-(I don't work for Uber, like this framework though!)
+(I don't work for Uber)
 
-Demo
+[Demo](https://runningdeveloper.github.io/gatsby-starter-baseweb/)
 
-## Gatsby Extras
+## Features
+
+- Basic website working with the Base Web famework
+
+### Gatsby extras
 
 A Gatsby Link component wrapped in the baseweb styled link in the components folder. Not sure if this is best way to go about it (let me know id there is a better way).
 ```
