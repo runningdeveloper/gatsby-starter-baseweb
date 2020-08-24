@@ -19,7 +19,7 @@ A minimal Gatsby starter based on Base Web from Uber.
 
 ### Gatsby extras
 
-A Gatsby Link component wrapped in the baseweb styled link in the components folder. Not sure if this is best way to go about it (let me know id there is a better way).
+A Gatsby Link component wrapped in the baseweb styled link in the components folder. Not sure if this is best way to go about it (let me know if there is a better way).
 ```
 import StyledGatsbyLink from "../components/styledGatsbyLink"
 

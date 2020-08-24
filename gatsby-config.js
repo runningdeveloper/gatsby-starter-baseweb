@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/gatsby-starter-baseweb",
   siteMetadata: {
     title: `Gatsby Starter Base Web`,
     description: `A minimal Gatsby starter based on Base Web from Uber.`,
